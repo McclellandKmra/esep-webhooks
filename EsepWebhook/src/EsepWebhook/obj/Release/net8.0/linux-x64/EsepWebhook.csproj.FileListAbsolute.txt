@@ -15,3 +15,12 @@ C:\Users\mccle\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\refint\E
 C:\Users\mccle\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\Users\mccle\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\mccle\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.dll
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\refint\EsepWebhook.dll
+C:\Users\mccle\OneDrive\Documents\GitHub\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
